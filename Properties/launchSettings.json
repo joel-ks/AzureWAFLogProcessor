@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WafLogProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "--path \"C:\\Users\\Joel.Sutton\\OneDrive - My Food Bag\\Documents\\Temp\\MFB-FD-PRD\" --output-dir \"C:\\Users\\Joel.Sutton\\OneDrive - My Food Bag\\Documents\\Temp\\WAF\""
+    }
+  }
+}
